@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**kmc6381/kmc6381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 I’m currently learning
 
-Here are some ideas to get you started:
+- Machine learning
+- Web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+
+- Developing a web application using React
+
+## 🤝 I’m looking to collaborate on
+
+- Open source projects related to machine learning
+
+## 📫 How to reach me
+
+- Email: yourname@email.com
+- LinkedIn: linkedin.com/in/yourname
+
+## ⚡ Fun fact
+
+- I'm a black belt in taekwondo!
